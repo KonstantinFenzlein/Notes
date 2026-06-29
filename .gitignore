@@ -1,0 +1,6 @@
+da_notes_frontend_teilnehmer/
+
+# Python / Django backend
+da_notes_backend/.venv/
+da_notes_backend/db.sqlite3
+da_notes_backend/**/__pycache__/
